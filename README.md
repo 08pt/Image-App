@@ -1,1 +1,1 @@
-# Image-App
+# Image-Search-App
